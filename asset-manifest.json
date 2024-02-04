@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/css/main.2425880a.css",
+    "main.js": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/js/main.d32ba25a.js",
+    "static/js/592.4fe15575.chunk.js": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/js/592.4fe15575.chunk.js",
+    "static/media/drizzle.png": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/media/drizzle.7ba68c7636354fda1f32.png",
+    "static/media/mist.png": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/media/mist.4a0f300b48ab433ca304.png",
+    "static/media/clouds.png": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/media/clouds.bec995ef50f9dab24180.png",
+    "static/media/snow.png": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/media/snow.c8ed556c8e144314a339.png",
+    "static/media/rain.png": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/media/rain.586dab4fa773ec5fbaaf.png",
+    "index.html": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/index.html",
+    "main.2425880a.css.map": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/css/main.2425880a.css.map",
+    "main.d32ba25a.js.map": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/js/main.d32ba25a.js.map",
+    "592.4fe15575.chunk.js.map": "/%3Chttps://Ivana-01.github.io/weather-app.github.io%3E/static/js/592.4fe15575.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2425880a.css",
+    "static/js/main.d32ba25a.js"
+  ]
+}
