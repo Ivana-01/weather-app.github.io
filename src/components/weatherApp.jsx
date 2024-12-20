@@ -43,7 +43,7 @@ const WeatherApp = () => {
                 setIcon(mist)
             } else if(data.weather[0].main === 'Snow'){
                 setIcon(snow)
-            } document.querySelector(".info").style.display = 'block';
+            } document.querySelector(".info").style.opacity = '1';
         }
     }
 
@@ -57,11 +57,15 @@ const WeatherApp = () => {
             </span>
         </div>
         <div className='info'>
+            <div className="head">
         <div className='weather-img'>
             <img src={ icon } alt="icon" />
         </div>
-        <div className='temp'>0</div>
-        <div className='city'>0</div>
+        <div className="citytemp">
+            <div className='temp'>0</div>
+            <div className='city'>0</div>
+        </div>
+        </div>
         <div className='details'>
             <div className="element">
                 <img src={ humidity } alt="humidity icon" className='icon'/>
