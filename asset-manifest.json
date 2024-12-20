@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weather-app.github.io/static/css/main.d9e1dce0.css",
+    "main.js": "/weather-app.github.io/static/js/main.8a190e6a.js",
+    "static/media/drizzle.png": "/weather-app.github.io/static/media/drizzle.7ba68c7636354fda1f32.png",
+    "static/media/mist.png": "/weather-app.github.io/static/media/mist.4a0f300b48ab433ca304.png",
+    "static/media/humidity.png": "/weather-app.github.io/static/media/humidity.756af8134d75d59cd7a4.png",
+    "static/media/wind.png": "/weather-app.github.io/static/media/wind.7b5e2ddc7b55d4448bbd.png",
+    "static/media/search.png": "/weather-app.github.io/static/media/search.d20f3c1036223b671dfe.png",
+    "static/media/clouds.png": "/weather-app.github.io/static/media/clouds.bec995ef50f9dab24180.png",
+    "static/media/snow.png": "/weather-app.github.io/static/media/snow.c8ed556c8e144314a339.png",
+    "static/media/rain.png": "/weather-app.github.io/static/media/rain.586dab4fa773ec5fbaaf.png",
+    "index.html": "/weather-app.github.io/index.html",
+    "main.d9e1dce0.css.map": "/weather-app.github.io/static/css/main.d9e1dce0.css.map",
+    "main.8a190e6a.js.map": "/weather-app.github.io/static/js/main.8a190e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9e1dce0.css",
+    "static/js/main.8a190e6a.js"
+  ]
+}

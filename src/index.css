@@ -1,7 +1,0 @@
-body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  background: linear-gradient(205deg, rgb(238 233 245) 0%, rgb(30 34 42) 100%);
-  width: 100%;
-}
